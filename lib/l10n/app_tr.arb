@@ -1,0 +1,17 @@
+{
+  "appTitle": "Pis Yedili",
+  "mainMenu": "Ana menü",
+  "players": "Oyuncu",
+  "settingAutoPlayDrawn": "Kart çekince aynı turda oynat",
+  "settingAutoPlayDrawnSub": "Çekilen kart uygunsa otomatik at",
+  "settingJackWild": "Vale tür değiştirir",
+  "settingJackWildSub": "NJ zaten wild, bu seçenek varsayılan kapalıdır",
+  "startGame": "Oyunu Başlat",
+  "yourTurn": "Sıradaki",
+  "penalty": "Ceza",
+  "firstTour": "İlk tur: herkes en az bir sinek atmalı",
+  "drawCard": "Kart Çek",
+  "pass": "Pas",
+  "chooseSuit": "Tür seç",
+  "lastCard": "Son kart!"
+}

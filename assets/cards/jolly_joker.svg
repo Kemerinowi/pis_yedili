@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="280" viewBox="0 0 200 280">
+  <rect x="5" y="5" width="190" height="270" rx="12" ry="12" fill="#ffffff" stroke="#222" stroke-width="3"/>
+  <text x="20" y="40" font-size="28" font-family="Arial" fill="#222">JJ</text>
+  <g transform="translate(40,60)">
+    <rect x="25" y="25" width="70" height="70" rx="10" ry="10" fill="#e57373" stroke="#b71c1c" stroke-width="4"/>
+    <text x="60" y="72" text-anchor="middle" font-size="28" font-family="Arial" fill="#fff">10</text>
+  </g>
+</svg>

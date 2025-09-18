@@ -1,0 +1,17 @@
+{
+  "appTitle": "Pis Yedili",
+  "mainMenu": "Main menu",
+  "players": "Players",
+  "settingAutoPlayDrawn": "Play drawn card in same turn",
+  "settingAutoPlayDrawnSub": "Auto-play if playable",
+  "settingJackWild": "Jack changes suit",
+  "settingJackWildSub": "NJ is already wild; off by default",
+  "startGame": "Start Game",
+  "yourTurn": "Turn",
+  "penalty": "Penalty",
+  "firstTour": "First tour: everyone must play at least one club",
+  "drawCard": "Draw",
+  "pass": "Pass",
+  "chooseSuit": "Choose suit",
+  "lastCard": "Last card!"
+}
